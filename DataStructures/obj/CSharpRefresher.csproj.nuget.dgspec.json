@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DevelopmentTraining\\C#\\Git\\CSharpRefresher\\CSharpRefresher.csproj": {}
+    "D:\\DevelopmentTraining\\C#\\Git\\CSharpRefresher\\DataStructures\\CSharpRefresher.csproj": {}
   },
   "projects": {
-    "D:\\DevelopmentTraining\\C#\\Git\\CSharpRefresher\\CSharpRefresher.csproj": {
+    "D:\\DevelopmentTraining\\C#\\Git\\CSharpRefresher\\DataStructures\\CSharpRefresher.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DevelopmentTraining\\C#\\Git\\CSharpRefresher\\CSharpRefresher.csproj",
+        "projectUniqueName": "D:\\DevelopmentTraining\\C#\\Git\\CSharpRefresher\\DataStructures\\CSharpRefresher.csproj",
         "projectName": "CSharpRefresher",
-        "projectPath": "D:\\DevelopmentTraining\\C#\\Git\\CSharpRefresher\\CSharpRefresher.csproj",
+        "projectPath": "D:\\DevelopmentTraining\\C#\\Git\\CSharpRefresher\\DataStructures\\CSharpRefresher.csproj",
         "packagesPath": "C:\\Users\\kstro\\.nuget\\packages\\",
-        "outputPath": "D:\\DevelopmentTraining\\C#\\Git\\CSharpRefresher\\obj\\",
+        "outputPath": "D:\\DevelopmentTraining\\C#\\Git\\CSharpRefresher\\DataStructures\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
