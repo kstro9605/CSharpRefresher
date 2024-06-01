@@ -1,0 +1,15 @@
+D:\DevelopmentTraining\C#\Git\CSharpRefresher\bin\Debug\net7.0\CSharpRefresher.exe
+D:\DevelopmentTraining\C#\Git\CSharpRefresher\bin\Debug\net7.0\CSharpRefresher.deps.json
+D:\DevelopmentTraining\C#\Git\CSharpRefresher\bin\Debug\net7.0\CSharpRefresher.runtimeconfig.json
+D:\DevelopmentTraining\C#\Git\CSharpRefresher\bin\Debug\net7.0\CSharpRefresher.dll
+D:\DevelopmentTraining\C#\Git\CSharpRefresher\bin\Debug\net7.0\CSharpRefresher.pdb
+D:\DevelopmentTraining\C#\Git\CSharpRefresher\obj\Debug\net7.0\CSharpRefresher.csproj.AssemblyReference.cache
+D:\DevelopmentTraining\C#\Git\CSharpRefresher\obj\Debug\net7.0\CSharpRefresher.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevelopmentTraining\C#\Git\CSharpRefresher\obj\Debug\net7.0\CSharpRefresher.AssemblyInfoInputs.cache
+D:\DevelopmentTraining\C#\Git\CSharpRefresher\obj\Debug\net7.0\CSharpRefresher.AssemblyInfo.cs
+D:\DevelopmentTraining\C#\Git\CSharpRefresher\obj\Debug\net7.0\CSharpRefresher.csproj.CoreCompileInputs.cache
+D:\DevelopmentTraining\C#\Git\CSharpRefresher\obj\Debug\net7.0\CSharpRefresher.dll
+D:\DevelopmentTraining\C#\Git\CSharpRefresher\obj\Debug\net7.0\refint\CSharpRefresher.dll
+D:\DevelopmentTraining\C#\Git\CSharpRefresher\obj\Debug\net7.0\CSharpRefresher.pdb
+D:\DevelopmentTraining\C#\Git\CSharpRefresher\obj\Debug\net7.0\CSharpRefresher.genruntimeconfig.cache
+D:\DevelopmentTraining\C#\Git\CSharpRefresher\obj\Debug\net7.0\ref\CSharpRefresher.dll
