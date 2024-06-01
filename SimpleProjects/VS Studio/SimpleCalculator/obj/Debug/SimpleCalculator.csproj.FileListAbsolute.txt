@@ -1,0 +1,16 @@
+D:\DevelopmentTraining\C#\coursera\devEnv_setup\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+D:\DevelopmentTraining\C#\coursera\devEnv_setup\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+D:\DevelopmentTraining\C#\coursera\devEnv_setup\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+D:\DevelopmentTraining\C#\coursera\devEnv_setup\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.AssemblyReference.cache
+D:\DevelopmentTraining\C#\coursera\devEnv_setup\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.SuggestedBindingRedirects.cache
+D:\DevelopmentTraining\C#\coursera\devEnv_setup\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
+D:\DevelopmentTraining\C#\coursera\devEnv_setup\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+D:\DevelopmentTraining\C#\coursera\devEnv_setup\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+D:\DevelopmentTraining\C#\Git\CSharpRefresher\SimpleProjects\VS Studio\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+D:\DevelopmentTraining\C#\Git\CSharpRefresher\SimpleProjects\VS Studio\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+D:\DevelopmentTraining\C#\Git\CSharpRefresher\SimpleProjects\VS Studio\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+D:\DevelopmentTraining\C#\Git\CSharpRefresher\SimpleProjects\VS Studio\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.AssemblyReference.cache
+D:\DevelopmentTraining\C#\Git\CSharpRefresher\SimpleProjects\VS Studio\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.SuggestedBindingRedirects.cache
+D:\DevelopmentTraining\C#\Git\CSharpRefresher\SimpleProjects\VS Studio\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
+D:\DevelopmentTraining\C#\Git\CSharpRefresher\SimpleProjects\VS Studio\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+D:\DevelopmentTraining\C#\Git\CSharpRefresher\SimpleProjects\VS Studio\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
