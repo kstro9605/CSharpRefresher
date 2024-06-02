@@ -1,0 +1,15 @@
+D:\DevelopmentTraining\C#\Git\CSharpRefresher\LeetCodeProjects\PalindromeNumber\bin\Debug\net7.0\PalindromeNumber.exe
+D:\DevelopmentTraining\C#\Git\CSharpRefresher\LeetCodeProjects\PalindromeNumber\bin\Debug\net7.0\PalindromeNumber.deps.json
+D:\DevelopmentTraining\C#\Git\CSharpRefresher\LeetCodeProjects\PalindromeNumber\bin\Debug\net7.0\PalindromeNumber.runtimeconfig.json
+D:\DevelopmentTraining\C#\Git\CSharpRefresher\LeetCodeProjects\PalindromeNumber\bin\Debug\net7.0\PalindromeNumber.dll
+D:\DevelopmentTraining\C#\Git\CSharpRefresher\LeetCodeProjects\PalindromeNumber\bin\Debug\net7.0\PalindromeNumber.pdb
+D:\DevelopmentTraining\C#\Git\CSharpRefresher\LeetCodeProjects\PalindromeNumber\obj\Debug\net7.0\PalindromeNumber.csproj.AssemblyReference.cache
+D:\DevelopmentTraining\C#\Git\CSharpRefresher\LeetCodeProjects\PalindromeNumber\obj\Debug\net7.0\PalindromeNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevelopmentTraining\C#\Git\CSharpRefresher\LeetCodeProjects\PalindromeNumber\obj\Debug\net7.0\PalindromeNumber.AssemblyInfoInputs.cache
+D:\DevelopmentTraining\C#\Git\CSharpRefresher\LeetCodeProjects\PalindromeNumber\obj\Debug\net7.0\PalindromeNumber.AssemblyInfo.cs
+D:\DevelopmentTraining\C#\Git\CSharpRefresher\LeetCodeProjects\PalindromeNumber\obj\Debug\net7.0\PalindromeNumber.csproj.CoreCompileInputs.cache
+D:\DevelopmentTraining\C#\Git\CSharpRefresher\LeetCodeProjects\PalindromeNumber\obj\Debug\net7.0\PalindromeNumber.dll
+D:\DevelopmentTraining\C#\Git\CSharpRefresher\LeetCodeProjects\PalindromeNumber\obj\Debug\net7.0\refint\PalindromeNumber.dll
+D:\DevelopmentTraining\C#\Git\CSharpRefresher\LeetCodeProjects\PalindromeNumber\obj\Debug\net7.0\PalindromeNumber.pdb
+D:\DevelopmentTraining\C#\Git\CSharpRefresher\LeetCodeProjects\PalindromeNumber\obj\Debug\net7.0\PalindromeNumber.genruntimeconfig.cache
+D:\DevelopmentTraining\C#\Git\CSharpRefresher\LeetCodeProjects\PalindromeNumber\obj\Debug\net7.0\ref\PalindromeNumber.dll
