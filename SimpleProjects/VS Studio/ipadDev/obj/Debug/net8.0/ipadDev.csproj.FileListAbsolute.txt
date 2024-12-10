@@ -1,0 +1,15 @@
+/workspaces/CSharpRefresher/SimpleProjects/VS Studio/ipadDev/bin/Debug/net8.0/ipadDev
+/workspaces/CSharpRefresher/SimpleProjects/VS Studio/ipadDev/bin/Debug/net8.0/ipadDev.deps.json
+/workspaces/CSharpRefresher/SimpleProjects/VS Studio/ipadDev/bin/Debug/net8.0/ipadDev.runtimeconfig.json
+/workspaces/CSharpRefresher/SimpleProjects/VS Studio/ipadDev/bin/Debug/net8.0/ipadDev.dll
+/workspaces/CSharpRefresher/SimpleProjects/VS Studio/ipadDev/bin/Debug/net8.0/ipadDev.pdb
+/workspaces/CSharpRefresher/SimpleProjects/VS Studio/ipadDev/obj/Debug/net8.0/ipadDev.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CSharpRefresher/SimpleProjects/VS Studio/ipadDev/obj/Debug/net8.0/ipadDev.AssemblyInfoInputs.cache
+/workspaces/CSharpRefresher/SimpleProjects/VS Studio/ipadDev/obj/Debug/net8.0/ipadDev.AssemblyInfo.cs
+/workspaces/CSharpRefresher/SimpleProjects/VS Studio/ipadDev/obj/Debug/net8.0/ipadDev.csproj.CoreCompileInputs.cache
+/workspaces/CSharpRefresher/SimpleProjects/VS Studio/ipadDev/obj/Debug/net8.0/ipadDev.sourcelink.json
+/workspaces/CSharpRefresher/SimpleProjects/VS Studio/ipadDev/obj/Debug/net8.0/ipadDev.dll
+/workspaces/CSharpRefresher/SimpleProjects/VS Studio/ipadDev/obj/Debug/net8.0/refint/ipadDev.dll
+/workspaces/CSharpRefresher/SimpleProjects/VS Studio/ipadDev/obj/Debug/net8.0/ipadDev.pdb
+/workspaces/CSharpRefresher/SimpleProjects/VS Studio/ipadDev/obj/Debug/net8.0/ipadDev.genruntimeconfig.cache
+/workspaces/CSharpRefresher/SimpleProjects/VS Studio/ipadDev/obj/Debug/net8.0/ref/ipadDev.dll
