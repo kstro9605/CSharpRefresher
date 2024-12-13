@@ -10,10 +10,40 @@ namespace SyntacticBasics
     {
         static void Main(string[] args)
         {
-
+            //basics
             dataTypeUsages();
             operatorsUsage();
             conditionalStatementUsage();
+
+            //basic OOP concepts: classes, Objects, Encapsulation
+            Calculator simpleCalc = new Calculator();
+            simpleCalc.nickname = "Kyle's simple calc";
+            simpleCalc.Add(5, 10);
+            double lastValue = simpleCalc.GetLastResult();
+
+            //More OOP example such as Polymorphism and inheritance 
+            BadCalculator badCalc = new BadCalculator();
+            badCalc.Add(5, 10);
+            lastValue = badCalc.GetLastResult();
+
+            //Quick exception handling example
+            bool numEntered = false;
+            do
+            {
+                try
+                {
+                    Console.WriteLine("Please enter a number and only a number");
+                    int valueEntered = Convert.ToInt32(Console.ReadLine());
+                    numEntered = true;
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine(ex.ToString());
+                }
+            }
+            while (!numEntered);
+
+
             Console.ReadLine();
         }
 
