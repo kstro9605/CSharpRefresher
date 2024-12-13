@@ -1,0 +1,8 @@
+D:\DevelopmentTraining\C#\Git\InterviewExercizes\SyntacticBasics\bin\Debug\SyntacticBasics.exe.config
+D:\DevelopmentTraining\C#\Git\InterviewExercizes\SyntacticBasics\bin\Debug\SyntacticBasics.exe
+D:\DevelopmentTraining\C#\Git\InterviewExercizes\SyntacticBasics\bin\Debug\SyntacticBasics.pdb
+D:\DevelopmentTraining\C#\Git\InterviewExercizes\SyntacticBasics\obj\Debug\SyntacticBasics.csproj.AssemblyReference.cache
+D:\DevelopmentTraining\C#\Git\InterviewExercizes\SyntacticBasics\obj\Debug\SyntacticBasics.csproj.SuggestedBindingRedirects.cache
+D:\DevelopmentTraining\C#\Git\InterviewExercizes\SyntacticBasics\obj\Debug\SyntacticBasics.csproj.CoreCompileInputs.cache
+D:\DevelopmentTraining\C#\Git\InterviewExercizes\SyntacticBasics\obj\Debug\SyntacticBasics.exe
+D:\DevelopmentTraining\C#\Git\InterviewExercizes\SyntacticBasics\obj\Debug\SyntacticBasics.pdb
