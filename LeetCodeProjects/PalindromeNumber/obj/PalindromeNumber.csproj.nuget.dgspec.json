@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DevelopmentTraining\\C#\\Git\\CSharpRefresher\\LeetCodeProjects\\PalindromeNumber\\PalindromeNumber.csproj": {}
+    "D:\\DevelopmentTraining\\C#\\Git\\LeetCodeProjects\\PalindromeNumber\\PalindromeNumber.csproj": {}
   },
   "projects": {
-    "D:\\DevelopmentTraining\\C#\\Git\\CSharpRefresher\\LeetCodeProjects\\PalindromeNumber\\PalindromeNumber.csproj": {
+    "D:\\DevelopmentTraining\\C#\\Git\\LeetCodeProjects\\PalindromeNumber\\PalindromeNumber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DevelopmentTraining\\C#\\Git\\CSharpRefresher\\LeetCodeProjects\\PalindromeNumber\\PalindromeNumber.csproj",
+        "projectUniqueName": "D:\\DevelopmentTraining\\C#\\Git\\LeetCodeProjects\\PalindromeNumber\\PalindromeNumber.csproj",
         "projectName": "PalindromeNumber",
-        "projectPath": "D:\\DevelopmentTraining\\C#\\Git\\CSharpRefresher\\LeetCodeProjects\\PalindromeNumber\\PalindromeNumber.csproj",
+        "projectPath": "D:\\DevelopmentTraining\\C#\\Git\\LeetCodeProjects\\PalindromeNumber\\PalindromeNumber.csproj",
         "packagesPath": "C:\\Users\\kstro\\.nuget\\packages\\",
-        "outputPath": "D:\\DevelopmentTraining\\C#\\Git\\CSharpRefresher\\LeetCodeProjects\\PalindromeNumber\\obj\\",
+        "outputPath": "D:\\DevelopmentTraining\\C#\\Git\\LeetCodeProjects\\PalindromeNumber\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

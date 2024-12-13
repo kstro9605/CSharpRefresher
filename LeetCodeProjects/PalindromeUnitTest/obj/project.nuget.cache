@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dtzv4mc9guOuwRxgaIJ0K3yRWEGAciLomR9yyx7Ajpq5SEDpWaMYQAy8rKPonBNQHA7TRee9rvs5+rRQb66ONg==",
+  "dgSpecHash": "ngkAJXISFASGZGx1VMyN5hMjdaJFqpwqIHpNi8zBN/7NahGUyqfyEwNI62Sq1uHZvNaHe9vJytsoNgSzFPL/CQ==",
   "success": true,
-  "projectFilePath": "D:\\DevelopmentTraining\\C#\\Git\\CSharpRefresher\\LeetCodeProjects\\PalindromeUnitTest\\PalindromeUnitTest.csproj",
+  "projectFilePath": "D:\\DevelopmentTraining\\C#\\Git\\LeetCodeProjects\\PalindromeUnitTest\\PalindromeUnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kstro\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\kstro\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z8kFPzl9spM3+EtkRS68Kd6DUcQT/gOCIBKh9gQCLf8M+7PAoAQvJpKCQkxiXKALfjClrmWeQVkLQAVxeGBTHg==",
+  "dgSpecHash": "qeFTYgdSs+JwGoF7pek4LrulWM7kNcVbRPBhN3VQDhZ7Twymxrk6ZwOiND5/P1KlKcmZWat6vB1d5LOVp5NCgg==",
   "success": true,
-  "projectFilePath": "D:\\DevelopmentTraining\\C#\\Git\\CSharpRefresher\\LeetCodeProjects\\PalindromeNumber\\PalindromeNumber.csproj",
+  "projectFilePath": "D:\\DevelopmentTraining\\C#\\Git\\LeetCodeProjects\\PalindromeNumber\\PalindromeNumber.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
